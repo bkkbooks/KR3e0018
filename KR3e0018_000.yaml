@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0018/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部五
+  hash: sha256:385bc2d94867d1b606f43bb11ebdc68a3a5579aafe48be2b02b9eb652717f689
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0018_WYG_000-1a, image: WYG0738/WYG0738-0051a.png}
+body:
+  text: 明堂灸經醫家類提要臣等謹案明堂灸經八卷題曰西方子撰不知何許人與銅人針灸經俱刋于山西平陽府其書専論灸法銅人惟有正背左右人形此則兼及側伏較更詳密考唐志有黃帝十二經明堂偃側人圖十二卷兹或其遺法歟其曰明堂者錢曾讀書敏求記曰昔黃帝問岐伯以人之經絡盡書其言藏于靈臺之室洎雷公請問乃坐明堂授之後世言明堂者以此今醫家記針灸之穴為偶人㸃志其處名明堂非也今考舊唐書經籍志以明堂經脉别為一類則曽之說信矣古法多針灸並言或惟言針或言針以該灸靈樞稱針經是也自王燾外臺祕要始力言誤針之害凡針法針穴俱刪不録惟立灸法為一門此書言灸不言針蓋猶燾志也乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:7e90e46344cf630918a08a5d3b6d7f3c9db1fe0d29c32f01ec71aa2f471902df
+metadata:
+  title: 明堂灸經
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:04:31.939773'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3e0018/KR3e0018_000.txt
+hash: sha256:3d58ce2dd29f98c4aeada6346de38d46d28a72313d6857a9914633b3db1c322a
